@@ -14,11 +14,11 @@ DataSet
 -------
 > Image Example   
    
-<img src="/workspace/binary_classification/image/1.JPG" width="80%" height="80%" title="img1" alt="img1"></img>   
+<img src="/image/1.JPG" width="80%" height="80%" title="img1" alt="img1"></img>   
 
 > 분류 그래프   
    
-<img src="/workspace/binary_classification/image/2.JPG" width="80%" height="80%" title="img2" alt="img2"></img>   
+<img src="/image/2.JPG" width="80%" height="80%" title="img2" alt="img2"></img>   
 
 * 데이터셋은 다음의 링크를 참조 : <https://www.kaggle.com/c/dogs-vs-cats/data>   
 * 데이터 포맷 형식 : jpg   
@@ -91,39 +91,39 @@ optional arguments:
     
 > 기존모델   
    
-<img src="/workspace/binary_classification/image/3.jpg" width="80%" height="80%" title="img3" alt="img3"></img>   
+<img src="/image/3.jpg" width="80%" height="80%" title="img3" alt="img3"></img>   
 > SEVGG11   
 
-<img src="/workspace/binary_classification/image/8.jpg" width="80%" height="80%" title="img3" alt="img3"></img>   
+<img src="/image/8.jpg" width="80%" height="80%" title="img3" alt="img3"></img>   
 
 #### VGG16
 > 기존모델   
       
-<img src="/workspace/binary_classification/image/4.jpg" width="80%" height="80%" title="img4" alt="img5"></img>   
+<img src="/image/4.jpg" width="80%" height="80%" title="img4" alt="img5"></img>   
 > SEVGG16   
    
-<img src="/workspace/binary_classification/image/9.jpg" width="80%" height="80%" title="img4" alt="img5"></img>     
+<img src="/image/9.jpg" width="80%" height="80%" title="img4" alt="img5"></img>     
     
 #### Resnet18  
 > 기존모델   
          
-<img src="/workspace/binary_classification/image/5.jpg" width="80%" height="80%" title="img5" alt="img5"></img>   
+<img src="/image/5.jpg" width="80%" height="80%" title="img5" alt="img5"></img>   
 > SEResNet18   
       
-<img src="/workspace/binary_classification/image/10.jpg" width="80%" height="80%" title="img5" alt="img5"></img>     
+<img src="/image/10.jpg" width="80%" height="80%" title="img5" alt="img5"></img>     
 
 #### Resnet50 
 > 기존모델   
         
-<img src="/workspace/binary_classification/image/6.jpg" width="80%" height="80%" title="img5" alt="img5"></img>   
+<img src="/image/6.jpg" width="80%" height="80%" title="img5" alt="img5"></img>   
 
 #### DenseNet121
 > 기존모델   
            
-<img src="/workspace/binary_classification/image/7.jpg" width="80%" height="80%" title="img5" alt="img5"></img>     
+<img src="/image/7.jpg" width="80%" height="80%" title="img5" alt="img5"></img>     
 
 > SEDenseNet121   
    
-<img src="/workspace/binary_classification/image/11.jpg" width="80%" height="80%" title="img5" alt="img5"></img>    
+<img src="/image/11.jpg" width="80%" height="80%" title="img5" alt="img5"></img>    
 
 
